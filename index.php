@@ -34,7 +34,7 @@
     <!-- ======= Top Bar ======= -->
     <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
       <div class="container d-flex">
-        <div class="contact-info mr-auto"><i class="far fa-envelope"></i> <a href="mailto:contact@karyodev.com">contact@karyodev.com</a> <i class="fas fa-mobile-alt"></i> +6285549002851</div>
+        <div class="contact-info mr-auto"><i class="far fa-envelope"></i> <a href="mailto:contact@karyodev.com">contact@karyodev.com</a> <i class="fas fa-mobile-alt"></i> +628974879215</div>
         <div class="social-links">
           <a href="#" class="twitter"><i class="fab fa-twitter"></i></a>
           <a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a>
@@ -137,28 +137,29 @@
               <img src="assets/img/about.jpg" class="img-fluid" alt="" />
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
-              <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-              <p class="font-italic">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              <h3>Why should karyo dev?</h3>
+              <p class="font-italic">karyodev developes website and mobile-based information system applications that suit the needs of stakeholders or business owners to improve ongoing business processes.</p>
               <ul>
                 <li>
-                  <i class="bx bx-store-alt"></i>
+                  <i class="bx bx-edit-alt"></i>
                   <div>
-                    <h5>Ullamco laboris nisi ut aliquip consequat</h5>
-                    <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
+                    <h5>Vision</h5>
+                    <p>To become a startup that has solutions for development in various fields that implement information system applications so as to be able to provide added value for all stakeholders.</p>
                   </div>
                 </li>
                 <li>
-                  <i class="bx bx-images"></i>
+                  <i class="bx bx-notepad"></i>
                   <div>
-                    <h5>Magnam soluta odio exercitationem reprehenderi</h5>
-                    <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
+                    <h5>Mission</h5>
+                    <p>- Provide optimal solutions for stakeholders in implementing information system applications effectively and efficiently.</p>
+                    <p>- Increase company value through the implementation of information system applications.</p>
                   </div>
                 </li>
               </ul>
-              <p>
+              <!-- <p>
                 Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa
                 qui officia deserunt mollit anim id est laborum
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -233,7 +234,7 @@
               <div class="icon-box">
                 <div class="icon"><i class="fas fa-laptop-code"></i></div>
                 <h4><a href="">Custom Development</a></h4>
-                <p>Contains about the web that can be customized as needed</p>
+                <p>Contains about the platforms that can be customized as needed</p>
               </div>
             </div>
 
@@ -707,7 +708,7 @@
               <div class="info-box rounded bg-white mb-4">
                 <i class="bx bx-phone-call"></i>
                 <h3>Call Us</h3>
-                <p>+6285549002851</p>
+                <p>+628974879215</p>
               </div>
             </div>
           </div>
@@ -807,7 +808,7 @@
               <h4>Our Office</h4>
               <p>Jl. Bulak Banteng Lor Bhinneka 1, Surabaya</p>
               <div class="social-links mt-3">
-                <p><strong>Phone:</strong> +6285549002851</p>
+                <p><strong>Phone:</strong> +628974879215</p>
                 <p><strong>Email:</strong> contact@karyodev.com</p>
               </div>
             </div>
