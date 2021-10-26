@@ -36,9 +36,9 @@
       <div class="container d-flex">
         <div class="contact-info mr-auto"><i class="far fa-envelope"></i> <a href="mailto:contact@karyodev.com">contact@karyodev.com</a> <i class="fas fa-mobile-alt"></i> +628974879215</div>
         <div class="social-links">
-          <a href="#" class="twitter"><i class="fab fa-twitter"></i></a>
+          <!-- <a href="#" class="twitter"><i class="fab fa-twitter"></i></a> -->
           <a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a>
-          <a href="#" class="instagram"><i class="fab fa-instagram"></i></a>
+          <a href="www.instagram.com/karyodev.id" class="instagram"><i class="fab fa-instagram"></i></a>
           <a href="#" class="linkedin"><i class="fab fa-linkedin-in"></i></a>
         </div>
       </div>
@@ -73,7 +73,7 @@
     <section id="hero" class="d-flex align-items-center">
       <div class="container" data-aos="zoom-out" data-aos-delay="100">
         <h1>Welcome to <span style="color: #0984e3">Karyo</span><span style="color: #00b894">Dev</span></h1>
-        <h2>We are team of talented designers making websites with Bootstrap</h2>
+        <h2>Digitize and support the effectiveness of your business performance!</h2>
         <div class="d-flex">
           <a href="#about" class="btn-get-started scrollto">Get Started</a>
           <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox btn-watch-video" data-vbtype="video" data-autoplay="true"> Watch Video <i class="far fa-play-circle"></i></a> -->
@@ -91,7 +91,7 @@
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="ri-team-fill"></i></div>
                 <h4 class="title"><a href="">Professional Team</a></h4>
-                <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                <p class="description">We have a team that is passionate about their field</p>
               </div>
             </div>
 
@@ -99,7 +99,7 @@
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="ri-customer-service-2-fill"></i></div>
                 <h4 class="title"><a href="">Free Consultation</a></h4>
-                <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                <p class="description">Able to provide the right advice for improvement & client business services</p>
               </div>
             </div>
 
@@ -107,7 +107,7 @@
               <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
                 <div class="icon"><i class="ri-time-fill"></i></div>
                 <h4 class="title"><a href="">Full Support</a></h4>
-                <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                <p class="description">We strive to provide a quality system in terms of appearance, good functionality and also user friendly</p>
               </div>
             </div>
 
@@ -115,7 +115,7 @@
               <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
                 <div class="icon"><i class="ri-mac-fill"></i></div>
                 <h4 class="title"><a href="">UI & UX</a></h4>
-                <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                <p class="description">The system display is attractive and easy to understand</p>
               </div>
             </div>
           </div>
@@ -138,7 +138,8 @@
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
               <h3>Why should karyo dev?</h3>
-              <p class="font-italic">karyodev developes website and mobile-based information system applications that suit the needs of stakeholders or business owners to improve ongoing business processes.</p>
+              <p class="font-italic">Karyodev developes website and mobile-based information system applications that suit the needs of stakeholders or business owners to improve ongoing business processes.</p>
+              <p class="font-italic">Such as company profile websites, android applications, management information system applications, POS systems that can help digitize small and medium business units (MSMEs).</p>
               <ul>
                 <li>
                   <i class="bx bx-edit-alt"></i>
@@ -259,7 +260,7 @@
       <!-- End Services Section -->
 
       <!-- ======= Testimonials Section ======= -->
-      <section id="testimonials" class="testimonials">
+      <!-- <section id="testimonials" class="testimonials">
         <div class="container" data-aos="zoom-in">
           <div class="owl-carousel testimonials-carousel">
             <div class="testimonial-item">
@@ -318,11 +319,11 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
       <!-- End Testimonials Section -->
 
       <!-- ======= Portfolio Section ======= -->
-      <section id="portfolio" class="portfolio">
+      <!-- <section id="portfolio" class="portfolio">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
             <h2>Portfolio</h2>
@@ -433,7 +434,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
       <!-- End Portfolio Section -->
 
       <!-- ======= Team Section ======= -->
@@ -797,10 +798,10 @@
             <div class="col-md-2 offset-md-2 footer-links">
               <h4>Our Services</h4>
               <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Company Profile</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Custom Development</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Mobile Development</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">UI/UX Design</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="#services">Company Profile</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="#services">Custom Development</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="#services">Mobile Development</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="#services">UI/UX Design</a></li>
               </ul>
             </div>
 
