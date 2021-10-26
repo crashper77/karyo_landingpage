@@ -37,9 +37,9 @@
         <div class="contact-info mr-auto"><i class="far fa-envelope"></i> <a href="mailto:contact@karyodev.com">contact@karyodev.com</a> <i class="fas fa-mobile-alt"></i> +628974879215</div>
         <div class="social-links">
           <!-- <a href="#" class="twitter"><i class="fab fa-twitter"></i></a> -->
-          <a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a>
-          <a href="www.instagram.com/karyodev.id" class="instagram"><i class="fab fa-instagram"></i></a>
-          <a href="#" class="linkedin"><i class="fab fa-linkedin-in"></i></a>
+          <a href="https://facebook.com/Karyo-Dev-110205991446849?_rdc=1&_rdr" class="facebook"><i class="fab fa-facebook-f"></i></a>
+          <a href="https://www.instagram.com/karyodev.id" class="instagram"><i class="fab fa-instagram"></i></a>
+          <a href="https://www.linkedin.com/company/karyo-dev/" class="linkedin"><i class="fab fa-linkedin-in"></i></a>
         </div>
       </div>
     </div>
