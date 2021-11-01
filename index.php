@@ -86,6 +86,11 @@
       <!-- ======= Featured Services Section ======= -->
       <section id="featured-services" class="featured-services">
         <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Why</h2>
+            <h3>Why Choose Us?</h3>
+            <p>Karyo Dev is commited to helping its clients to reach their goals.</p>
+          </div>
           <div class="row">
             <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
