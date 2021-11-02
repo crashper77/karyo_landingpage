@@ -1,15 +1,7 @@
-/**
-* Template Name: BizLand - v1.2.1
-* Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Poppins:wght@300;400;500;600&display=swap');
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #444444;
 }
 
@@ -603,7 +595,7 @@ section {
 .section-title h3 {
   margin: 15px 0 0 0;
   font-size: 32px;
-  font-weight: 700;
+  font-weight: 650;
 }
 
 .section-title h3 span {
@@ -612,7 +604,8 @@ section {
 
 .section-title p {
   margin: 15px auto 0 auto;
-  font-weight: 600;
+  font-weight: 450;
+  color: #575555;
 }
 
 @media (min-width: 1024px) {
@@ -934,7 +927,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #222222;
+  color: #333333;
   transition: ease-in-out 0.3s;
 }
 
@@ -1517,7 +1510,7 @@ section {
 
 .contact .info-box h3 {
   font-size: 20px;
-  color: #777777;
+  color: #333333;
   font-weight: 700;
   margin: 10px 0;
 }
