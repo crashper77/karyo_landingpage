@@ -61,7 +61,7 @@
             <li><a href="#portfolio">Portfolio</a></li>
             <!-- <li><a href="#team">Team</a></li> -->
             <!-- <li><a href="#pricing">Pricing</a></li> -->
-            <li><a href="#contact">Contact</a></li>
+            <li><a class="contact" href="#contact">Contact</a></li>
           </ul>
         </nav>
         <!-- .nav-menu -->
@@ -70,7 +70,7 @@
     <!-- End Header -->
 
     <!-- ======= Hero Section ======= -->
-    <section id="hero" class="d-flex align-items-center">
+    <section id="hero" class="d-flex flex-column justify-content align-items-center">
       <div class="container" data-aos="zoom-out" data-aos-delay="100">
         <h1>Welcome to <span style="color: #0984e3">Karyo</span><span style="color: #00b894">Dev</span></h1>
         <h2>Digitize and support the effectiveness of your business performance!</h2>
@@ -87,9 +87,8 @@
       <section id="featured-services" class="featured-services">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
-            <h2>Why</h2>
-            <h3>Why Choose Us?</h3>
-            <p>Karyo Dev is commited to helping its clients to reach their goals.</p>
+            <h2>Why Choose Us</h2>
+            <h3 class="mb-3">We Provide Experts to Create A Great Value For Your Business</h3>
           </div>
           <div class="row">
             <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
@@ -131,18 +130,14 @@
       <!-- ======= About Section ======= -->
       <section id="about" class="about section-bg">
         <div class="container" data-aos="fade-up">
-          <div class="section-title">
-            <h2>About</h2>
-            <h3>Find Out More <span>About Us</span></h3>
-            <p>Explore more information about us</p>
-          </div>
 
           <div class="row">
             <div class="col-lg-6" data-aos="zoom-out" data-aos-delay="100">
-              <img src="assets/img/about.jpg" class="img-fluid" alt="" />
+              <img src="assets/img/about.png" class="img-fluid" alt="" />
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
-              <h3>Why should karyo dev?</h3>
+              <h2>Our Main Features</h2>
+              <h3>We Work With You To Address Your Most Critical Business Priorities.</h3>
               <p>Karyo Dev developes website and mobile-based information system applications that suit the needs of stakeholders or business owners to improve ongoing business processes.</p>
               <p>Such as company profile websites, android applications, management information system applications, POS systems that can help digitize small and medium business units (MSMEs).</p>
               <ul>
@@ -171,6 +166,51 @@
         </div>
       </section>
       <!-- End About Section -->
+
+      <!-- ======= Services Section ======= -->
+      <section id="services" class="services">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Our Services</h2>
+            <h3>We Creating <span>Solutions</span> For Your Organization</h3>
+          </div>
+
+          <div class="row">
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
+              <div class="icon-box">
+                <div class="icon"><i class="fas fa-store"></i></div>
+                <h4><a href="">Company Profile</a></h4>
+                <p>Contains general information about the company</p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
+              <div class="icon-box">
+                <div class="icon"><i class="fas fa-laptop-code"></i></div>
+                <h4><a href="">Custom Development</a></h4>
+                <p>Contains about the platforms that can be customized as needed</p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
+              <div class="icon-box">
+                <div class="icon"><i class="fas fa-mobile-alt"></i></div>
+                <h4><a href="">Mobile Development</a></h4>
+                <p>Mobile-based application development</p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
+              <div class="icon-box">
+                <div class="icon"><i class="fas fa-quidditch"></i></div>
+                <h4><a href="">UI/UX Design</a></h4>
+                <p>Design the appearance of a product, such as an application or website</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Services Section -->
 
       <!-- ======= Counts Section ======= -->
       <section id="counts" class="counts">
@@ -217,52 +257,6 @@
         </div>
       </section>
       <!-- End Counts Section -->
-
-      <!-- ======= Services Section ======= -->
-      <section id="services" class="services">
-        <div class="container" data-aos="fade-up">
-          <div class="section-title">
-            <h2>Services</h2>
-            <h3>Check our <span>Services</span></h3>
-            <p>The services we offer</p>
-          </div>
-
-          <div class="row">
-            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
-              <div class="icon-box">
-                <div class="icon"><i class="fas fa-store"></i></div>
-                <h4><a href="">Company Profile</a></h4>
-                <p>Contains general information about the company</p>
-              </div>
-            </div>
-
-            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
-              <div class="icon-box">
-                <div class="icon"><i class="fas fa-laptop-code"></i></div>
-                <h4><a href="">Custom Development</a></h4>
-                <p>Contains about the platforms that can be customized as needed</p>
-              </div>
-            </div>
-
-            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
-              <div class="icon-box">
-                <div class="icon"><i class="fas fa-mobile-alt"></i></div>
-                <h4><a href="">Mobile Development</a></h4>
-                <p>Mobile-based application development</p>
-              </div>
-            </div>
-
-            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
-              <div class="icon-box">
-                <div class="icon"><i class="fas fa-quidditch"></i></div>
-                <h4><a href="">UI/UX Design</a></h4>
-                <p>Design the appearance of a product, such as an application or website</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- End Services Section -->
 
       <!-- ======= Testimonials Section ======= -->
       <!-- <section id="testimonials" class="testimonials">
@@ -689,8 +683,9 @@
       <section id="contact" class="contact section-bg">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
-            <h2>Contact</h2>
-            <h3><span>Contact Us</span></h3>
+            <h2>Contact Us</h2>
+            <h3>Have a Question?</h3>
+            <p>If you got any questions please do not hesitate to send us a message.</p>
           </div>
 
           <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -789,17 +784,6 @@
               </p>
             </div>
 
-            <!-- <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div> -->
-
             <div class="col-md-2 offset-md-2 footer-links">
               <h4>Our Services</h4>
               <ul>
@@ -831,7 +815,7 @@
     </footer>
     <!-- End Footer -->
 
-    <div id="preloader"></div>
+    <!-- <div id="preloader"></div> -->
     <a href="#" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
 
     <!-- Vendor JS Files -->

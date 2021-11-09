@@ -580,16 +580,14 @@ section {
 }
 
 .section-title h2 {
-  font-size: 13px;
-  letter-spacing: 1px;
-  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: 2px;
+  font-weight: 720;
   padding: 8px 20px;
   margin: 0;
-  background: #e7f1fd;
   color: #106eea;
   display: inline-block;
   text-transform: uppercase;
-  border-radius: 50px;
 }
 
 .section-title h3 {
@@ -744,9 +742,17 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.about .content h2 {
+  font-size: 17px;
+  letter-spacing: 2px;
+  font-weight: 720;
+  color: #106eea;
+  text-transform: uppercase;
+}
+
 .about .content h3 {
   font-weight: 600;
-  font-size: 26px;
+  font-size: 30px;
 }
 
 .about .content ul {
